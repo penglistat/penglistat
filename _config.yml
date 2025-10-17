@@ -23,7 +23,7 @@ repository               : "penglistat/penglistat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "peng.jpg" # "profile.png"
   name             : "Peng Li"
   pronouns         : # example: "she/her"  
   bio              : "Researcher on population health"
