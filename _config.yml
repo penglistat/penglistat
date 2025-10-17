@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher on population health"
   location         : "Rostock, Germany"
-  employer         : "<a href='https://www.demogr.mpg.de' target='_blank'>Max Planck Institute<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Demographic Research"
+  employer         : "Max Planck Institute<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Demographic Research"
   uri              : # URL
-  email            : "<a href='mailto:li@demogr.mpg.de'>li@demogr.mpg.de</a>" 
+  email            : "li@demogr.mpg.de" 
 
   # Academic websites
   academia         : # URL
