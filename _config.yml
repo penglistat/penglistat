@@ -29,9 +29,8 @@ author:
   bio              : "Researcher on population health"
   location         : "Rostock, Germany"
   employer         : "<a href='https://www.demogr.mpg.de' target='_blank'>Max Planck Institute<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for Demographic Research"
-  employer         : "<a href='https://www.helsinki.fi/en/helsinki-institute-demography-and-population-health/maxhel-center' target='_blank'>MaxHel Center<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max Planck - University of Helsinki Center"
   uri              : # URL
-  email            : "li@demogr.mpg.de" 
+  email            : "<a href='mailto:li@demogr.mpg.de'>li@demogr.mpg.de</a>" 
 
   # Academic websites
   academia         : # URL
